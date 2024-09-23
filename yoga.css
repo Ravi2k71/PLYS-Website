@@ -21,3 +21,5 @@ body  { background-color: #F5F5F5;
      text-align: center; }
     
     .studio {font-style: italic;} 
+
+    #wrapper {width: 80%; margin-right: auto; margin-left: auto;}
