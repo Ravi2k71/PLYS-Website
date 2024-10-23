@@ -4,7 +4,8 @@ body  { background-color: #F5F5F5;
     
     
     header  { background-color: #9BC1C2;
-    text-align: center;  }
+    text-align: center;  
+    background-image: url(lilyheader.jpg);}
     
     
     h1 { line-height:  200px; }  
